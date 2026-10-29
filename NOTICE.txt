@@ -1,0 +1,17 @@
+Copyright (c) 2026 A. S. Olayinka. All rights reserved.
+
+The author retains the copyright in the WSU-COS 107 Practical Manual and in everything in this
+repository, including text, figures, data files and documents. No part of it may be reproduced,
+adapted, published or redistributed without the prior written permission of the author, except:
+
+  - Students registered for WSU-COS 107 at Wellspring University may use the course files for
+    their own study and course work.
+  - Instructors teaching WSU-COS 107 at Wellspring University may use and reproduce them for
+    that course.
+
+Permissions: solayinkaa@gmail.com
+
+All data in these files is fictional; no real person or organisation is described.
+
+AI usage declaration: Claude (Anthropic) was used to assist with drafting and editing. The author
+reviewed, tested and edited all AI-assisted content and takes full responsibility for it.
